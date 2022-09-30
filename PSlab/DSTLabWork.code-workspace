@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../DSTLabWork"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"FIRST.C": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "DSTLabWork"
+	}
+}
